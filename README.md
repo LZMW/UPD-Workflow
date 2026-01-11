@@ -49,4 +49,4 @@ LZMW
 
 ## 仓库地址 / Repository
 
-https://github.com/LZMW/unified-dev-workflow
+https://github.com/LZMW/UPD-Workflow
