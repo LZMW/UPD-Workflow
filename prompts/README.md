@@ -23,13 +23,27 @@ Full version of the Unified Development Workflow v1.3 prompt, including:
 
 Compact version of the prompt with fewer tokens, suitable for quick loading.
 
+### workflow-v13-en.md
+英文版完整提示词，内容与 `workflow-v13.md` 相同。
+
+English version of the full prompt, same content as `workflow-v13.md`.
+
+### workflow-v13-compact-en.md
+英文版压缩提示词，内容与 `workflow-v13-compact.md` 相同。
+
+English version of the compact prompt, same content as `workflow-v13-compact.md`.
+
 ## 使用建议 / Usage Recommendations
 
+**中文用户 / Chinese Users:**
 - **首次使用或需要完整说明时**，使用 `workflow-v13.md`
 - **For first-time use or when complete instructions are needed**, use `workflow-v13.md`
-
 - **熟悉流程后**，可使用 `workflow-v13-compact.md` 节省token
 - **After becoming familiar with the workflow**, use `workflow-v13-compact.md` to save tokens
+
+**English Users:**
+- **For first-time use or when complete instructions are needed**, use `workflow-v13-en.md`
+- **After becoming familiar with the workflow**, use `workflow-v13-compact-en.md` to save tokens
 
 ## 使用方法 / How to Use
 
